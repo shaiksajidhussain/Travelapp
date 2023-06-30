@@ -1,4 +1,4 @@
-# TravelappTravel App - Hotel Booking 🔥🔥🔥
+# Travel App - Hotel Booking 🔥🔥🔥
 Overview
 This project is a Travel App that allows users to book hotels for their vacations. It is built using HTML, CSS, and Vanilla JavaScript. The app provides a seamless and user-friendly interface for browsing and booking hotels at various destinations.
 
